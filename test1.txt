@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0248-BDD6
+
+ Directory of C:\Users\spbvrs\Desktop\MyProject
+
+30-Jan-18  02:19 AM    <DIR>          .
+30-Jan-18  02:19 AM    <DIR>          ..
+30-Jan-18  02:19 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  45,865,742,336 bytes free
